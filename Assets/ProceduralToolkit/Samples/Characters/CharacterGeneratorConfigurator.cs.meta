@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 29a622081ea88574380b77612a5c896f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16508
+  packageName: Procedural Toolkit
+  packageVersion: 0.2.3
+  assetPath: Assets/ProceduralToolkit/Samples/Characters/CharacterGeneratorConfigurator.cs
+  uploadId: 371553

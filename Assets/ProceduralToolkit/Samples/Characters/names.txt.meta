@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 65f8298252f942244844aa5fff93c57c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16508
+  packageName: Procedural Toolkit
+  packageVersion: 0.2.3
+  assetPath: Assets/ProceduralToolkit/Samples/Characters/names.txt
+  uploadId: 371553
